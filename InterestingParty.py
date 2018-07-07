@@ -3,7 +3,7 @@ first = ['t', 'o', 'p', 'c', 'o', 'd', 'e', 'r', 's', 'i', 'n', 'g', 'l', 'e', '
 second = ['n', 'e', 'f', 'o', 'u', 'r', 'j', 'a', 'n', 'u', 'a', 'r', 'y', 't', 'w', 'e', 'n', 't', 'y', 't', 'w', 'o',
           's', 'a', 't', 'u', 'r', 'd', 'a', 'y']
 maxNumber = 0
-
+# commit
 for idx, firs in enumerate(first):
     turn = idx
     myfirstSum = 0
